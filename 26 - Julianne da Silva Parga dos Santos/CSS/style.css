@@ -205,9 +205,7 @@ footer {
 }
 
 @media (max-width: 480px) {
-     header {
-          flex-direction: ;
-     }
+
 
      .nav-item {
           color: var(--c01);
@@ -292,5 +290,9 @@ footer {
 
      #h1-pagamento{
           margin-top: 100px;
+     }
+
+     .cad{
+          margin-right: 10px;
      }
 }
